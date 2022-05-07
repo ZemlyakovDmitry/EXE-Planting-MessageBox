@@ -7,6 +7,10 @@ Could be used for Bug Bounty (EXE planting attack)
 1. Download and unpack ZIP-file
 2. Place to the needed directory
 3. Rename file MessageBoxExe.exe
+4. Run vulnerable app  
+
+If app vulnerable, one of these message boxes will pop up
+
 
 ![image](https://user-images.githubusercontent.com/29678249/167265422-c2fa34e0-6644-40dd-a5b2-4dba6ca58bfd.png)
 
